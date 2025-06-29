@@ -4,13 +4,13 @@ After god knows how long of gaslighting myself into what I thought Bandit looked
 This mod adds a **new and improved remodel of Bandit** as a skin to the game, along with **two additional variants** that I made!
 
 ## Cowboy
-![image](https://github.com/user-attachments/assets/3d92cc39-3e53-49da-8d22-94281a4bf65c)
+![image](https://github.com/user-attachments/assets/b9d61dbf-05df-47f2-a084-2f2ab63ff484)
 
 ## Desperado
-![image](https://github.com/user-attachments/assets/81634646-6fd6-46e7-8e90-794d8bad305e)
+![image](https://github.com/user-attachments/assets/5665e450-afee-4bd6-b9a0-ecf1ceca4494)
 
 ## Hemophilia
-![image](https://github.com/user-attachments/assets/9fd96a38-1a83-4c0a-be17-0738d4468b39)
+![image](https://github.com/user-attachments/assets/0ba88bfa-a939-488a-bfe1-259b8f6c7fb0)
 
 # Future Plans
 Fix coat jittering (The jitter isn't too bad but I'd like to iron it out at some point)
